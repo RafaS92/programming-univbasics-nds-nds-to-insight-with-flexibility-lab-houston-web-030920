@@ -115,12 +115,7 @@ def movies_with_directors_set(source)
     a_o_a_movies_by_dir << movies_with_director_key(director_name, directors_movies)
     i += 1
   end
-erjspgfspgfp]afaefisdi]idgfjizdf[zfdpzojfd]zj]ofpozjfdpaiepazgi:fzjdv
-pzjdv
-zjovzvzm'vz'dnvzpndpsfjdp
-zkf
-O{dnvzpndpsfjdp{zfdpzojfd{zfdpzojfd{zfdpzojfd[ojv
-[pzjdva[fzjdvzpf'cpmhifxmmsmoxcfizf,hciIh'PFDIPdfC'PZX,"PJCX;/]]]DASADQWESGLEFJEHIEHIEHEHPEPHOEPHOEUOUPHEWAUUEUHEUEUEUHHUAEUHEUHOAEURHUOOZSUHPudUFUHDUAZPODUI[iduasdfipasdhOAIADHJAOI;sdhCOIsCJjkcJZJLFCNZFZ.MCCxMsdm:cdnFZCJn:cnn:fHxmFHKChklmcjb:hdjbHKDcmkxnvcj<xdjckzm :fJczMSDFFGFZSDGXDFXXDXGXGCGHFGXZVZFFGVZDGHJCHGFDFXGG HGD]
+
   a_o_a_movies_by_dir
 end
 end
